@@ -11,7 +11,7 @@ In my spare time I expand my knowledge in the field of testing, and **I am looki
 
 - :zap: In my spare time I expand my knowledge in the field of testing.
 
-- :mailbox:How to reach me: <a href="https://www.google.com/](https://www.linkedin.com/in/jakubsalamon/" target="_blank">Here</a>.
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/jakubsalamon/" target="_blank">Here</a>.
 
 ## Skills:
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
