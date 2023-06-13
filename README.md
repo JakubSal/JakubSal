@@ -7,8 +7,7 @@ In my spare time I expand my knowledge in the field of testing, and **I am looki
  
 - 💻: I am a **Computer Science** student at Silesian University.
 
-- 👨‍🏫: I am currently working as a **programming tutor**, teaching my students such technologies as: **HTML/CSS/C#**.
-
+- 👨‍🏫: I am currently working as a **QA Tester**.
 - :zap: In my spare time I expand my knowledge in the field of **testing**.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/jakubsalamon/" target="_blank">Here</a>.
